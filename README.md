@@ -20,3 +20,10 @@ In conclusion, an Advanced Encryption Tool developed using Python is a sophistic
 
 #output
 
+![Image](https://github.com/user-attachments/assets/c139db7f-e344-4222-bbb5-a0e7d48c3002)
+
+![Image](https://github.com/user-attachments/assets/307cdcd4-c6c3-4286-b614-6c8b849be788)
+
+![Image](https://github.com/user-attachments/assets/a1291a0d-a6fc-4a69-bfef-f2a66e94942f)
+
+![Image](https://github.com/user-attachments/assets/02a08ac5-aac2-4c76-8ea2-f7150e7f2dd6)
